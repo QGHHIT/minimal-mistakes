@@ -111,7 +111,7 @@ author:
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "I am an **amazing** person."
   location         : "Harbin"
-  email            :"qiuguohua@hit.edu.cn"
+  email            : "qiuguohua@hit.edu.cn"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
